@@ -14,4 +14,4 @@ javascript:var scriptElement = document.createElement('script'); scriptElement.s
 
 ## License
 
-All scripts are under the MIT license. See the complete license [here](https://github.com/krasun/AutomatedVK/blob/master/LICENSE).
+All scripts are under the MIT license. See the complete license [here](LICENSE).
